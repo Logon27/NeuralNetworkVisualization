@@ -6,6 +6,6 @@ This is a mathematica notebook I created to visually represent a neural network 
 ![Neural Network Layout](https://i.imgur.com/DFOpwV2.png)
 
 ## Mathematic Plots Example
-In the actual notebook the bias values can be moved independently. You only see a single bias slider in the picture because I couldn't fit it all in one image otherwise
+In the actual notebook the bias values can be moved independently. You only see a single bias slider in the picture because I couldn't fit it all in one image otherwise.
 
 ![Mathematic Plots](https://i.imgur.com/IEu8RQc.png)
